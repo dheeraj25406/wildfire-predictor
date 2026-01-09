@@ -1,15 +1,3 @@
-<<<<<<< HEAD
----
-title: Wildfire Predictor
-emoji: 🔥
-colorFrom: red
-colorTo: yellow
-sdk: streamlit
-sdk_version: 1.46.0
-app_file: app.py
-pinned: false
----
-
 # 🔥 Wildfire Detection using CNN + VGG16
 
 An AI-powered image classification system to detect wildfires from visual data using a custom CNN and VGG16 model.
